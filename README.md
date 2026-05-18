@@ -1,2 +1,14 @@
-# TodoListApp
-This project is a Java-based To-Do List application developed for beginners. It allows users to manage tasks through a simple console menu by adding, viewing, and removing tasks.
+# ToDoListApp
+
+A simple Java console-based To-Do List application.
+
+## Features
+- Add tasks
+- View tasks
+- Remove tasks
+
+## How to Run
+```bash
+javac ToDoListApp.java
+java ToDoListApp
+```
